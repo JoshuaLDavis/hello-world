@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+
+Totally committed to Git, huh-huh-huh-hub. 
